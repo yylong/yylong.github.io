@@ -2,4 +2,5 @@
 layout: Teaching
 ---
 
-我的课程
+
+Fall 2017, ME 24-776 / ECE 18-776,  #Modeling and Simulation with MATLAB#
