@@ -11,3 +11,6 @@ Guizhou Minzu University.
 Huaxi District Guiyang, Guizhou Province, 550025.
 
 P.R. China.
+
+
+$ \alpha +\beta = \epslong$
