@@ -8,9 +8,9 @@ layout: Resume
 - B.E. 2011, Aircraft Design and Engineering，Beijing Institude of Technology.
 
 ## Work experience
- - Spring 2018: Teacher&Researcher 
-- Guizhou Minzu University.
-- Duties included：Lecture & Research
+- Spring 2018: Teacher&Researcher 
+*Guizhou Minzu University.
+*Duties included：Lecture & Research
 
 ## Awards
 to be continued
