@@ -2,14 +2,11 @@
 layout: Research
 ---
 
-### Overview
 - [Geometric modeling method and application](#1)
 - [Geometric method in nonlinear control](#2)
 - [Planning algorithm](#3)
 - [Multi-sensor fusion](#4)
 
-
-######  to be continued ...
 
 <h3 id='1'>Geometric modeling method and application</h3>
 
