@@ -2,7 +2,9 @@
 layout: Publications
 ---
 
+**C.Liu**, SJ.Tang, SY.Yang, YH.Li, "Generalized predictive control with dynamic compensation for quadrotor attitude stabilization", *Chinese Control Conference 2014*, pp. 7709-7714, 2014.
 
+***
 **2013**
 
 **C.Liu**, SJ.Tang, SY.Yang, J.Guo, "Fuzzy Sliding-Mode Control for Quad-Rotor Trajectory Tracking", *Applied Mechanics & Materials*, 280 , pp. 1593-1600, 2013.
