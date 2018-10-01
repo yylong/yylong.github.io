@@ -18,7 +18,4 @@ to be continued
 to be continued
 
 
-<!-- ### Footer
-
-Last updated: Oct 2018
 
