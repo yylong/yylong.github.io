@@ -10,9 +10,9 @@ layout: Resume
 ## Work experience
 - Spring 2018: Teacher&Researcher
 
-    *Guizhou Minzu University.
+&nbsp;&nbsp;  *Guizhou Minzu University.
 
-    *Duties included：Lecture & Research
+&nbsp;&nbsp;  *Duties included：Lecture & Research
 
 ## Awards
 to be continued
@@ -20,4 +20,3 @@ to be continued
 to be continued
 
 
-$$ x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
