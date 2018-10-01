@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: Resume
 ---
 [ Curriculum Vitae download ] (Last update 2018.09.24)
 
