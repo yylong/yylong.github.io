@@ -1,6 +1,8 @@
 ---
 layout: Publications
 ---
+***
+**2014**
 
 **C.Liu**, SJ.Tang, SY.Yang, YH.Li, "Generalized predictive control with dynamic compensation for quadrotor attitude stabilization", *Chinese Control Conference 2014*, pp. 7709-7714, 2014.
 
