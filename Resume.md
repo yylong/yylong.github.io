@@ -9,10 +9,8 @@ layout: Resume
 
 ## Work experience
 - Spring 2018: Teacher&Researcher
-
-&nbsp;&nbsp;  *Guizhou Minzu University.
-
-&nbsp;&nbsp;  *Duties included：Lecture & Research
+&nbsp;&nbsp;&nbsp;&nbsp;  *Guizhou Minzu University.
+&nbsp;&nbsp;&nbsp;&nbsp;  *Duties included：Lecture & Research
 
 ## Awards
 to be continued
