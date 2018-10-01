@@ -3,6 +3,7 @@ layout: Publications
 ---
 
 **2018**
+
 **C.Liu**, SY.Yang, DC.Luo, JQ.Zhou, "Robust Back-stepping Controller on SO(3) for a Quadrotor Attitude Tracking ", *10th ICMIC* (Accepted)
 
 ***
