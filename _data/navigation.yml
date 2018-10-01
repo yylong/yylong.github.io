@@ -2,11 +2,19 @@
 - title: Home
   url: /
 
-- title: Presentations
-  url: /presentations/
-
 - title: Resume
-  url: /resume/
+  url: /Resume/
 
-- title: Blog
-  url: /blog/
+- title: Research
+  url: /Research/
+
+- title: Publications
+  url: /Publications/
+  
+- title: Teaching
+  url: /Teaching/
+
+- title: Contact
+  url: /Contact/
+  
+  
