@@ -1,19 +1,19 @@
 # Site wide configuration
 
-title: Site Title
+title: Liu Chao
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Liu Chao
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: "A Ph.D of Aeronautical and Astronautical Science and Technology."
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
-  github: #username
+  github: liuchaobit
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
