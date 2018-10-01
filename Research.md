@@ -8,14 +8,18 @@ layout: Research
 - [Multi-sensor fusion](#4)
 
 
-<h4 id='1'>Geometric modeling method and application</h4>
+<h5 id='1'>Geometric modeling method and application</h5>
+
 modeling
 
-<h4 id='2'>Geometric method in nonlinear control</h4>
+<h5 id='2'>Geometric method in nonlinear control</h5>
+
 control
 
-<h4 id='3'>Planning algorithm</h4>
+<h5 id='3'>Planning algorithm</h5>
+
 planning
 
-<h4 id='4'>Multi-sensor fusion</h4>
+<h5 id='4'>Multi-sensor fusion</h5>
+
 Sensors
