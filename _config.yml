@@ -7,7 +7,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Liu Chao
-  avatar: bio-photo.jpg
+  avatar: photo.jpg
   bio: "A Ph.D of Aeronautical and Astronautical Science and Technology."
   email: i@liuchaos.cn
   # Do not include the @ symbol in your Twitter username
