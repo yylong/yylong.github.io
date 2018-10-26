@@ -22,4 +22,4 @@ layout: Research
 <h5 id='4'>Multi-sensor fusion</h5>
 
 
-[测试](_posts/2016-07-23-example-post.md)
+[测试](Research/GeoModel.md)
