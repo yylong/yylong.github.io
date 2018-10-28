@@ -4,12 +4,12 @@ layout: Publications
 
 **2018**
 
-**C.Liu**, SY.Yang, DC.Luo, JQ.Zhou, "Robust Back-stepping Controller on SO(3) for a Quadrotor Attitude Tracking ", *10th ICMIC* (Accepted)
+**C.Liu**, SY.Yang, DC.Luo, JQ.Zhou, "Robust Back-stepping Controller on SO(3) for a Quadrotor Attitude Tracking", *10th ICMIC* (Accepted)
 
 ***
 **2017**
 
-**C.Liu**, SJ.Tang, J.Guo, "Intrinsic Optimal Control for Mechanical Systems on Lie Group ", *Advances in Mathematical Physics*, 2017
+**C.Liu**, SJ.Tang, J.Guo, "Intrinsic Optimal Control for Mechanical Systems on Lie Group", *Advances in Mathematical Physics*, 2017
 
 **C.Liu**, SJ.Tang, J.Guo, YL.Wang, "Design and application of intrinsic sliding-mode observer on SO(3)", *Systems Engineering and Electronics*, 39 (3), pp. 606–611, 2017, (In chinese).
 
