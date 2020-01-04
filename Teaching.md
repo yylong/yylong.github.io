@@ -2,6 +2,20 @@
 layout: Teaching
 ---
 
+Spring 2019,  **Special English of The Measurement, Control technology and Instrument**
+
+Spring 2019,  **Modeling and Simulation with MATLAB**
+
+***
+
+Fall 2019, **Automatic Control Principle**
+
+Fall 2019, **Introduction to Automation**
+
+Fall 2019, **Introduction to Measurement, Control and Instrumentation**
+
+***
+
 Spring 2019,  **Signals and Systems**
 
 Spring 2019,  **Modeling and Simulation with MATLAB**
