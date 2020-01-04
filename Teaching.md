@@ -2,9 +2,9 @@
 layout: Teaching
 ---
 
-Spring 2019,  **Special English of The Measurement, Control technology and Instrument**
+Spring 2020,  **Special English of The Measurement, Control technology and Instrument**
 
-Spring 2019,  **Modeling and Simulation with MATLAB**
+Spring 2020,  **Modeling and Simulation with MATLAB**
 
 ***
 
