@@ -35,6 +35,6 @@ Yang SY, **Liu C**, Tang SJ, Yang WL.Dual Channel Maneuver Flight Control Based 
 ***
 **2013**
 
-**Liu C** , Tang S J , Yang S Y , et al. Fuzzy Sliding-Mode Control for Quad-Rotor Trajectory Tracking[J].* Applied Mechanics and Materials*, 2013, 278-280:1593-1600.
+**Liu C** , Tang S J , Yang S Y , et al. Fuzzy Sliding-Mode Control for Quad-Rotor Trajectory Tracking[J]. *Applied Mechanics and Materials*, 2013, 278-280:1593-1600.
 
 **Liu C**, Yang SY,  Tang SJ, Xu JH, Robust Control Ctrategy using Geometric Control Theory Applied to Under-actuated Aircraft Attitude Stabilization, (4), pp. 1-4, 2013, (In chinese). 
