@@ -2,6 +2,8 @@
 layout: Publications
 ---
 
+---
+
 **2020**
 
 Li Y , **Liu C** . Efficient and Safe Motion Planning for Quadrotors Based on Unconstrained Quadratic Programming[J]. *Robotica*, 2020:1-17.
