@@ -6,9 +6,13 @@ layout: Publications
 
 Li Y , **Liu C** . Efficient and Safe Motion Planning for Quadrotors Based on Unconstrained Quadratic Programming[J]. *Robotica*, 2020:1-17.
 
+---
+
 **2019**
 
 Wang Y, Tang S, Guo J, Wang X, **Liu C**. Fuzzy-Logic-Based Fixed-Time Geometric Backstepping Control on SO(3) For Spacecraft Attitude Tracking[J]. *IEEE Transactions on Aerospace and Electronic Systems*, 2019, 55(6): 2938-2950.
+
+---
 
 
 **2018**
@@ -20,6 +24,7 @@ Wang Y , Tang S , Guo J , **Liu C**. Geometric modeling and controllability anal
 Yang SY, **Liu C**, Tang SJ, Yang WL.Dual Channel Maneuver Flight Control Based on Dynamic Inverse and Dynamic Sliding Mode[J].*Journal of System Simulation*.2018,2018:30-1.
 
 ***
+
 **2017**
 
 **Liu C** , Tang S , Guo J . Intrinsic Optimal Control for Mechanical Systems on Lie Group[J]. *Advances in Mathematical Physics*,2017,(2017-7-12), 2017, 2017:1-8.
