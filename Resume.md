@@ -1,10 +1,11 @@
 ---
 layout: Resume
 ---
-[ Curriculum Vitae download ] (Last update 2018.09.24)
+
 
 ## Educuation
-- Ph.D. 2017, Aeronautical and Astronautical Science and Technology, Beijing Institude of Technology.
+- Ph.D. 2017, School of Aerospace Engineering, Beijing Institude of Technology.
+  -- Thsis
 - B.E. 2011, Aircraft Design and Engineering，Beijing Institude of Technology.
 
 ## Work experience
