@@ -2,9 +2,9 @@
 layout: Resume
 ---
 
+---
 
-
-## Educuations
+## Educuation
 - Ph.D. 2017, School of Aerospace Engineering, Beijing Institude of Technology.
   
   &nbsp;**Thesis**: Intrinsic Control and Trajectory Generation methods for Multi-body UAV system with Unilateral Constraints
