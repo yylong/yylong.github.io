@@ -1,22 +1,22 @@
 # Site wide configuration
 
-title: Liu Chao
+title: Yang Shengyi
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 url: //www.liuchaos.cn/
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Liu Chao
+  name: Yang Shengyi
   avatar: photo.jpg
   bio: "A Ph.D of Aeronautical and Astronautical Science and Technology."
   email: i@liuchaos.cn
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
-  github: liuchaobit
+  github: yylong
   orcid: 0000-0001-7953-5144
-  researchgate: Liu_Chao20
+  researchgate: 
   mendeley: #username
   google:
     plus: #username
