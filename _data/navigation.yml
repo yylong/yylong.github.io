@@ -1,0 +1,20 @@
+# Site navigation links
+- title: Home
+  url: /
+
+- title: Resume
+  url: /Resume/
+
+- title: Research
+  url: /Research/
+
+- title: Publications
+  url: /Publications/
+  
+- title: Teaching
+  url: /Teaching/
+
+- title: Contact
+  url: /Contact/
+  
+  
